@@ -1,3 +1,4 @@
+[![Docker Build Status](https://img.shields.io/docker/build/adfinissygroup/nginx-echo.svg)](https://hub.docker.com/r/adfinissygroup/nginx-echo/)
 [![image](https://img.shields.io/github/license/adfinis-sygroup/nginx-echo.svg?style=flat-square)](https://github.com/adfinis-sygroup/nginx-echo/blob/master/LICENSE)
 
 nginx-echo is a small docker image based on Alpine that returns the request URI
