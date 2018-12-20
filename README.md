@@ -7,8 +7,8 @@ debugging.
 
 ## Extend
 
-If you wish to extend the information returned by nginx you can extend the echo
-configuration in `echo.conf`.
+If you wish to extend the information returned by nginx you can extend the text
+for the return directive in `default.conf`.
 
 ## Build
 
